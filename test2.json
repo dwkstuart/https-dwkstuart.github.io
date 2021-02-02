@@ -1,5 +1,8 @@
-[{		
-  "Chatroom": "Bits one",
-  "Tavern": "Bits two",
-	}
-]
+{
+   "bits":[
+      {
+         "Chatroom":"Bits one",
+         "Tavern":"Bits two"
+      }
+   ]
+}
